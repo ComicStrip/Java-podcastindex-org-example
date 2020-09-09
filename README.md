@@ -30,7 +30,7 @@ if you need support regarding this example, you want to give feedback or you hav
 
 ***
 
-proof that it works on the example of virtual Linux for iPad+iPhone - https://ish.app - running in iPad (but since Java is multi-platform, it will run also in Android and in all other platforms):
+proof that it works on the example of virtual Linux for iPad+iPhone - https://ish.app - running in iPad (but since Java is multi-platform, it will run also in Android + in all other platforms):
 
 
 <img alt="podcastingindex.org example in Swift" src="https://raw.githubusercontent.com/ComicStrip/Java-podcastindex-org-example/main/20905CF8-6500-48B7-B31D-E11E4B8DD825.png">
