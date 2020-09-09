@@ -19,7 +19,7 @@ how to use (on mac and PC and Linux)
 ```
     javac PodcastingIndex.java
 ```
-5) run:
+5) run (in case you use OpenJDK):
 ```
     java PodcastingIndex
 ```
